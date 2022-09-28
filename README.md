@@ -1,5 +1,5 @@
 # DexRAT
-Dex is a Remote Administration Tool (RAT) designed to remotely monitor / access other computers through a secure encrypted connection (SSL)
+Dex is a Remote Administration Tool (RAT) designed to remotely monitor / access other computers through a secure encrypted connection(SSL)
 
 # Included projects
 ##### This project includes the following
